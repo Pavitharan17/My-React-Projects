@@ -11,7 +11,7 @@ function Header() {
   return (
     <Container>
       <a>
-        <img src="/images/tesla-logo.png" alt="Tesla Logo"/>
+        <img src="./images/tesla-logo.png" alt="Tesla Logo"/>
       </a>
 
       <Menu>
